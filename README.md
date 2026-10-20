@@ -27,7 +27,7 @@ Stack: Vite, React, TypeScript, Tailwind CSS v4, shadcn/ui, Motion and Recharts.
 
 ## Data
 
-Every number on the page comes from `src/data/packages.json` (PyPI metadata and pypistats downloads, fetched on 2026-10-20). Per-package copy and quickstart snippets live in `src/data/meta.ts` and are taken from each README at the commit matching its PyPI release. To refresh the numbers, replace `packages.json` and rebuild.
+Every number on the page comes from `src/data/packages.json` (PyPI metadata and pypistats downloads, fetched on 2026-10-20). Per-package copy and quickstart snippets live in `src/data/meta.ts` and are taken from each README at the commit matching its PyPI release. The deploy workflow runs daily, refreshes the numbers with `scripts/refresh_data.py` (merging new daily downloads into the stored history) and commits the result. Run the script locally to refresh by hand.
 
 ## Deploy
 

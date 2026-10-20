@@ -4,9 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * *" # daily refresh of PyPI and pypistats data
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -19,6 +21,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Refresh PyPI data
+        if: github.event_name != 'push'
+        run: |
+          python3 scripts/refresh_data.py
+          if ! git diff --quiet src/data/packages.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "Refresh PyPI data"
+            git push
+          fi
       - uses: actions/setup-node@v4
         with:
           node-version: 22
