@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-24",
+ "fetchedAt": "2026-10-25",
  "packages": [
   {
    "name": "bench-my-llm",
@@ -24,9 +24,9 @@
     "0.5.0": "2026-09-08"
    },
    "recent": {
-    "last_day": 12,
+    "last_day": 0,
     "last_month": 207,
-    "last_week": 53
+    "last_week": 34
    },
    "dailyDownloads": [
     [
@@ -649,9 +649,9 @@
     "0.1.1": "2026-03-26"
    },
    "recent": {
-    "last_day": 7,
+    "last_day": 3,
     "last_month": 34,
-    "last_week": 28
+    "last_week": 21
    },
    "dailyDownloads": [
     [
@@ -1121,6 +1121,10 @@
     [
      "2026-10-23",
      7
+    ],
+    [
+     "2026-10-24",
+     3
     ]
    ],
    "tests": 558
@@ -1147,9 +1151,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 0,
+    "last_day": 1,
     "last_month": 18,
-    "last_week": 18
+    "last_week": 15
    },
    "dailyDownloads": [
     [
@@ -1459,6 +1463,10 @@
     [
      "2026-10-22",
      9
+    ],
+    [
+     "2026-10-24",
+     1
     ]
    ],
    "tests": 474
@@ -1482,9 +1490,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 7,
+    "last_day": 0,
     "last_month": 26,
-    "last_week": 39
+    "last_week": 31
    },
    "dailyDownloads": [
     [
@@ -1975,9 +1983,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 8,
+    "last_day": 1,
     "last_month": 29,
-    "last_week": 34
+    "last_week": 27
    },
    "dailyDownloads": [
     [
@@ -2387,6 +2395,10 @@
     [
      "2026-10-23",
      8
+    ],
+    [
+     "2026-10-24",
+     1
     ]
    ],
    "tests": 535
@@ -2410,9 +2422,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 8,
+    "last_day": 2,
     "last_month": 32,
-    "last_week": 33
+    "last_week": 28
    },
    "dailyDownloads": [
     [
@@ -2878,6 +2890,10 @@
     [
      "2026-10-23",
      8
+    ],
+    [
+     "2026-10-24",
+     2
     ]
    ],
    "tests": 521
@@ -2902,9 +2918,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 8,
+    "last_day": 0,
     "last_month": 22,
-    "last_week": 35
+    "last_week": 27
    },
    "dailyDownloads": [
     [
