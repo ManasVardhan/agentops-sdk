@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-29",
+ "fetchedAt": "2026-10-30",
  "packages": [
   {
    "name": "bench-my-llm",
@@ -24,9 +24,9 @@
     "0.5.0": "2026-09-08"
    },
    "recent": {
-    "last_day": 5,
+    "last_day": 2,
     "last_month": 207,
-    "last_week": 34
+    "last_week": 40
    },
    "dailyDownloads": [
     [
@@ -640,6 +640,10 @@
     [
      "2026-10-28",
      5
+    ],
+    [
+     "2026-10-29",
+     2
     ]
    ],
    "tests": 493
@@ -667,7 +671,7 @@
    "recent": {
     "last_day": 1,
     "last_month": 34,
-    "last_week": 26
+    "last_week": 23
    },
    "dailyDownloads": [
     [
@@ -1157,6 +1161,10 @@
     [
      "2026-10-28",
      1
+    ],
+    [
+     "2026-10-29",
+     1
     ]
    ],
    "tests": 558
@@ -1183,9 +1191,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 1,
+    "last_day": 0,
     "last_month": 18,
-    "last_week": 18
+    "last_week": 10
    },
    "dailyDownloads": [
     [
@@ -1538,9 +1546,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 7,
+    "last_day": 1,
     "last_month": 26,
-    "last_week": 27
+    "last_week": 21
    },
    "dailyDownloads": [
     [
@@ -2022,6 +2030,10 @@
     [
      "2026-10-28",
      7
+    ],
+    [
+     "2026-10-29",
+     1
     ]
    ],
    "tests": 583
@@ -2047,9 +2059,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 2,
+    "last_day": 0,
     "last_month": 29,
-    "last_week": 25
+    "last_week": 19
    },
    "dailyDownloads": [
     [
@@ -2502,9 +2514,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 5,
+    "last_day": 1,
     "last_month": 32,
-    "last_week": 30
+    "last_week": 25
    },
    "dailyDownloads": [
     [
@@ -2990,6 +3002,10 @@
     [
      "2026-10-28",
      5
+    ],
+    [
+     "2026-10-29",
+     1
     ]
    ],
    "tests": 521
@@ -3014,9 +3030,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 3,
+    "last_day": 0,
     "last_month": 22,
-    "last_week": 25
+    "last_week": 19
    },
    "dailyDownloads": [
     [
