@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-17",
+ "fetchedAt": "2026-11-18",
  "packages": [
   {
    "name": "bench-my-llm",
@@ -24,9 +24,9 @@
     "0.5.0": "2026-09-08"
    },
    "recent": {
-    "last_day": 5,
-    "last_month": 186,
-    "last_week": 59
+    "last_day": 1,
+    "last_month": 185,
+    "last_week": 46
    },
    "dailyDownloads": [
     [
@@ -712,6 +712,10 @@
     [
      "2026-11-16",
      5
+    ],
+    [
+     "2026-11-17",
+     1
     ]
    ],
    "tests": 493
@@ -737,9 +741,9 @@
     "0.1.1": "2026-03-26"
    },
    "recent": {
-    "last_day": 3,
-    "last_month": 109,
-    "last_week": 29
+    "last_day": 4,
+    "last_month": 112,
+    "last_week": 31
    },
    "dailyDownloads": [
     [
@@ -1305,6 +1309,10 @@
     [
      "2026-11-16",
      3
+    ],
+    [
+     "2026-11-17",
+     4
     ]
    ],
    "tests": 558
@@ -1331,9 +1339,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 2,
-    "last_month": 58,
-    "last_week": 20
+    "last_day": 1,
+    "last_month": 57,
+    "last_week": 10
    },
    "dailyDownloads": [
     [
@@ -1719,6 +1727,10 @@
     [
      "2026-11-16",
      2
+    ],
+    [
+     "2026-11-17",
+     1
     ]
    ],
    "tests": 474
@@ -1742,9 +1754,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 1,
-    "last_month": 127,
-    "last_week": 42
+    "last_day": 0,
+    "last_month": 123,
+    "last_week": 33
    },
    "dailyDownloads": [
     [
@@ -2323,9 +2335,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 2,
-    "last_month": 120,
-    "last_week": 40
+    "last_day": 0,
+    "last_month": 116,
+    "last_week": 31
    },
    "dailyDownloads": [
     [
@@ -2843,8 +2855,8 @@
    },
    "recent": {
     "last_day": 5,
-    "last_month": 123,
-    "last_week": 45
+    "last_month": 125,
+    "last_week": 41
    },
    "dailyDownloads": [
     [
@@ -3402,6 +3414,10 @@
     [
      "2026-11-16",
      5
+    ],
+    [
+     "2026-11-17",
+     5
     ]
    ],
    "tests": 521
@@ -3426,9 +3442,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 2,
-    "last_month": 130,
-    "last_week": 45
+    "last_day": 0,
+    "last_month": 125,
+    "last_week": 36
    },
    "dailyDownloads": [
     [
