@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-19",
+ "fetchedAt": "2026-11-20",
  "packages": [
   {
    "name": "bench-my-llm",
@@ -24,9 +24,9 @@
     "0.5.0": "2026-09-08"
    },
    "recent": {
-    "last_day": 6,
+    "last_day": 4,
     "last_month": 186,
-    "last_week": 48
+    "last_week": 35
    },
    "dailyDownloads": [
     [
@@ -720,6 +720,10 @@
     [
      "2026-11-18",
      6
+    ],
+    [
+     "2026-11-19",
+     4
     ]
    ],
    "tests": 493
@@ -745,9 +749,9 @@
     "0.1.1": "2026-03-26"
    },
    "recent": {
-    "last_day": 2,
-    "last_month": 112,
-    "last_week": 27
+    "last_day": 1,
+    "last_month": 111,
+    "last_week": 19
    },
    "dailyDownloads": [
     [
@@ -1321,6 +1325,10 @@
     [
      "2026-11-18",
      2
+    ],
+    [
+     "2026-11-19",
+     1
     ]
    ],
    "tests": 558
@@ -1347,9 +1355,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 0,
+    "last_day": 1,
     "last_month": 57,
-    "last_week": 8
+    "last_week": 6
    },
    "dailyDownloads": [
     [
@@ -1739,6 +1747,10 @@
     [
      "2026-11-17",
      1
+    ],
+    [
+     "2026-11-19",
+     1
     ]
    ],
    "tests": 474
@@ -1763,8 +1775,8 @@
    },
    "recent": {
     "last_day": 4,
-    "last_month": 124,
-    "last_week": 32
+    "last_month": 126,
+    "last_week": 25
    },
    "dailyDownloads": [
     [
@@ -2322,6 +2334,10 @@
     [
      "2026-11-18",
      4
+    ],
+    [
+     "2026-11-19",
+     4
     ]
    ],
    "tests": 583
@@ -2347,9 +2363,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 3,
-    "last_month": 116,
-    "last_week": 28
+    "last_day": 5,
+    "last_month": 119,
+    "last_week": 26
    },
    "dailyDownloads": [
     [
@@ -2847,6 +2863,10 @@
     [
      "2026-11-18",
      3
+    ],
+    [
+     "2026-11-19",
+     5
     ]
    ],
    "tests": 535
@@ -2870,9 +2890,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 4,
-    "last_month": 127,
-    "last_week": 37
+    "last_day": 1,
+    "last_month": 126,
+    "last_week": 28
    },
    "dailyDownloads": [
     [
@@ -3438,6 +3458,10 @@
     [
      "2026-11-18",
      4
+    ],
+    [
+     "2026-11-19",
+     1
     ]
    ],
    "tests": 521
@@ -3462,9 +3486,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 6,
-    "last_month": 128,
-    "last_week": 34
+    "last_day": 4,
+    "last_month": 130,
+    "last_week": 28
    },
    "dailyDownloads": [
     [
@@ -3982,6 +4006,10 @@
     [
      "2026-11-18",
      6
+    ],
+    [
+     "2026-11-19",
+     4
     ]
    ],
    "tests": 595
