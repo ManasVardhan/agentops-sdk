@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-23",
+ "fetchedAt": "2026-11-24",
  "packages": [
   {
    "name": "bench-my-llm",
@@ -761,9 +761,9 @@
     "0.1.1": "2026-03-26"
    },
    "recent": {
-    "last_day": 0,
-    "last_month": 111,
-    "last_week": 18
+    "last_day": 8,
+    "last_month": 109,
+    "last_week": 21
    },
    "dailyDownloads": [
     [
@@ -1345,6 +1345,10 @@
     [
      "2026-11-20",
      6
+    ],
+    [
+     "2026-11-23",
+     8
     ]
    ],
    "tests": 558
@@ -1802,9 +1806,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 2,
-    "last_month": 117,
-    "last_week": 22
+    "last_day": 7,
+    "last_month": 124,
+    "last_week": 28
    },
    "dailyDownloads": [
     [
@@ -2378,6 +2382,10 @@
     [
      "2026-11-22",
      2
+    ],
+    [
+     "2026-11-23",
+     7
     ]
    ],
    "tests": 583
@@ -2942,9 +2950,9 @@
     "0.1.1": "2026-02-17"
    },
    "recent": {
-    "last_day": 0,
-    "last_month": 115,
-    "last_week": 23
+    "last_day": 9,
+    "last_month": 122,
+    "last_week": 27
    },
    "dailyDownloads": [
     [
@@ -3518,6 +3526,10 @@
     [
      "2026-11-20",
      8
+    ],
+    [
+     "2026-11-23",
+     9
     ]
    ],
    "tests": 521
